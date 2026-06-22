@@ -5,35 +5,45 @@
 > **반영 기준**: 최종 ERD 이미지 + 기존 상세 Mermaid ERD
 
 ## 0. 전체 상세 ERD
+<img width="5427" height="5475" alt="image" src="https://github.com/user-attachments/assets/a2a742a6-a84a-419a-90a4-4bd469244679" />
 
 아래 이미지는 전체 테이블과 관계를 한 번에 볼 수 있는 전체 상세 ERD이다.
 
 
 ## 0-1. 도메인 ERD 개요
+<img width="4100" height="3025" alt="image" src="https://github.com/user-attachments/assets/f5297cff-65e8-45db-bd45-4a14b441cbf5" />
 
 
 ## 0-2. 도메인별 상세 ERD
 
 
 ### 1. 인증·유저·제재 도메인
+<img width="2450" height="1850" alt="image" src="https://github.com/user-attachments/assets/eb4ae726-9a29-4d3f-9dbd-c3bd7d003b96" />
 
 
 ### 2. 커뮤니티 도메인
+<img width="2400" height="2250" alt="image" src="https://github.com/user-attachments/assets/226e1fb0-e258-4b1d-9228-10d1a059db64" />
 
 
 ### 3. 동행·리뷰·채팅 도메인
+<img width="3525" height="2850" alt="image" src="https://github.com/user-attachments/assets/3e5eb8ef-47ea-4fb8-ac10-61eebbed87f0" />
 
 
 ### 4. 관광지·전통시장·축제 도메인
+<img width="3200" height="2350" alt="image" src="https://github.com/user-attachments/assets/06aac9b8-9ae4-4443-aa55-9de3bf720717" />
 
 
 ### 5. 가게·상인 도메인
+<img width="3600" height="2675" alt="image" src="https://github.com/user-attachments/assets/af3115cc-5545-49a5-93f6-8647f6777902" />
 
 
 ### 6. 결제·스토어·엽전 도메인
+<img width="3575" height="2750" alt="image" src="https://github.com/user-attachments/assets/9708ec5b-13ef-4143-a0f6-58805450e5ba" />
 
 
 ### 7. CS·신고·감사·알림·기타 도메인
+<img width="1179" height="1008" alt="image" src="https://github.com/user-attachments/assets/01f58137-7c7e-4f95-8311-d7f04a7e2475" />
+
 
 
 ## 0-3. ERD 해석 기준
